@@ -4,5 +4,8 @@ public class Hello {
       System.out.println("Hello, world from GIT!");
       System.out.println("Changes after First commit!");
       //feature-change
+
+      // New feature - Ajay S
+      System.out.println("Ajay S learning Git!");
    }
 }
